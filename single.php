@@ -24,17 +24,28 @@ get_header();
 					'next_text' => '<span class="nav-subtitle">' . esc_html__( 'Next:', 'pet-circle' ) . '</span> <span class="nav-title">%title</span>',
 				)
 			);
+		
 
-			// If comments are open or we have at least one comment, load up the comment template.
-			// if ( comments_open() || get_comments_number() ) :
-			// 	comments_template();
-			// endif;
+// 			If comments are open or we have at least one comment, load up the comment template.
+			?>
+		        <main id='main' class='discover' style="boder:dotted;">
+            <div class='container'>
+              	  <div class='row'>
+						<div class='col-sm-12'>
+			<?php
+			if ( comments_open() || get_comments_number() ) :
+				comments_template();
+			endif;
+		?>
+					</div></div></div></main>
+				<?php	
 
 		endwhile; // End of the loop.
 		?>
 
-	</main><!-- #main -->
+	</main>
 
+<!-- #main -->
 <?php
 // get_sidebar();
 get_footer();
