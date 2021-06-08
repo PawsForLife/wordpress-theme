@@ -43023,4 +43023,40 @@ span.product-reviews-handler.no-review {
     text-align: center;
 }
 
-/* ui-main css */
+
+/* Comment Css*/
+
+ol.comment-list
+{
+    margin: 0px;
+    padding: 0px;
+  
+}
+.comment-body
+{
+	line-height: 2.8;
+}
+.comment-content p
+{
+	font-size:16px;
+}
+.comment-author .fn 
+{
+	margin-left: 13px;
+    font-size: 16px;
+}
+ol.comment-list li
+{
+	background: #ffffff;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border: solid 1px #f1f1f1;
+}
+
+
+
+
+
+
+
+
