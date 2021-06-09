@@ -169,7 +169,7 @@
 </div>
 <!-- min.css -->
 
-<script src="./js/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="<?php echo get_template_directory_uri();?>/js/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script>
 
 
 <!-- <script src="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script> -->
@@ -202,12 +202,12 @@
 <!-- <script src="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/product-box-min.js" type="text/javascript" charset="utf-8"></script> -->
 
 
-<script src="./js/mega-nav-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="./js/shiba-min.js"    type="text/javascript" charset="utf-8"></script>
+<script src="<?php echo get_template_directory_uri();?>/js/mega-nav-min.js" type="text/javascript" charset="utf-8"></script>
+<script src="<?php echo get_template_directory_uri();?>/js/shiba-min.js"    type="text/javascript" charset="utf-8"></script>
 
-
-<!-- <script src="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/mega-nav-min.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/shiba-min.js" type="text/javascript" charset="utf-8"></script> -->
+<!-- 
+ <script src="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/mega-nav-min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/shiba-min.js" type="text/javascript" charset="utf-8"></script>  -->
 
 
 

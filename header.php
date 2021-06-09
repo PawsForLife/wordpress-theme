@@ -91,8 +91,8 @@
     <link rel="dns-prefetch" href="//ws.sessioncam.com" />
 
 
-    <link rel="preload" type="application/javascript" href="./js/mega-nav-min.js" as="script" />
-    <link rel="preload" type="application/javascript" href="./js/shiba-min.js" as="script" />
+    <link rel="preload" type="application/javascript" href="<?php echo get_template_directory_uri();?>/js/mega-nav-min.js" as="script" />
+    <link rel="preload" type="application/javascript" href="<?php echo get_template_directory_uri();?>/js/shiba-min.js" as="script" />
  <!-- <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/jquery-3.4.1.min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/js.cookie-2.2.1.min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/bootstrap.js" as="script" />
@@ -168,7 +168,7 @@
         });
     </script>
 
-
+  <link rel="stylesheet" href="<?php echo get_template_directory_uri()?>/css/ui-main.css">
     <link rel="canonical" href="https://www.petcircle.com.au/discover" />
     <!-- <link rel="stylesheet" href="https://www.petcircle.com.au/petcircle-assets/content/css/ui-main.css"> -->
     <link rel="preload" type="application/javascript" href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/jquery.magnific-popup.js" as="script" />

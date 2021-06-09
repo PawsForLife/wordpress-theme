@@ -59,13 +59,13 @@ p {
     margin-bottom: 18px;
 }
 
-@font-face {
+/* @font-face {
     font-family: 'petcircleico';
     src: url('/petcircle-assets/stylesheets/fonts/petcircleico.eot?w1oum6');
     src: url('/petcircle-assets/stylesheets/fonts/petcircleico.eot?w1oum6#iefix') format('embedded-opentype'), url('/petcircle-assets/stylesheets/fonts/petcircleico.ttf?w1oum6') format('truetype'), url('/petcircle-assets/stylesheets/fonts/petcircleico.woff?w1oum6') format('woff'), url('/petcircle-assets/stylesheets/fonts/petcircleico.svg?w1oum6#petcircleico') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+} */
 
 i {
     /* use !important to prevent issues with browser extensions that change fonts */
@@ -3877,7 +3877,7 @@ main#main {
 .discover-landing .top-content-slider .slide-wrap #discover-slide .flex-viewport ul.slides li p a:after {
     display: inline-block;
     margin-left: 6px;
-    background: url(/petcircle-assets/images/arrow3.png) left top no-repeat;
+    /* background: url(/petcircle-assets/images/arrow3.png) left top no-repeat; */
     width: 6px;
     height: 9px;
     vertical-align: middle;
@@ -3985,7 +3985,7 @@ main#main {
     width: 20px;
     top: 0px;
     left: 0px;
-    background: url(/petcircle-assets/images/ui-plus-button.png) no-repeat;
+    /* background: url(/petcircle-assets/images/ui-plus-button.png) no-repeat; */
     background-position: left -27px top;
 }
 
@@ -4012,7 +4012,7 @@ main#main {
     width: 20px;
     top: 0px;
     left: 0px;
-    background: url('/petcircle-assets/images/ui-plus-button.png') no-repeat;
+    /* background: url('/petcircle-assets/images/ui-plus-button.png') no-repeat; */
     background-position: left -1px top;
 }
 
@@ -8589,13 +8589,13 @@ p {
     margin-bottom: 18px;
 }
 
-@font-face {
+/* @font-face {
     font-family: 'petcircleico';
     src: url('/petcircle-assets/stylesheets/fonts/petcircleico.eot?w1oum6');
     src: url('/petcircle-assets/stylesheets/fonts/petcircleico.eot?w1oum6#iefix') format('embedded-opentype'), url('/petcircle-assets/stylesheets/fonts/petcircleico.ttf?w1oum6') format('truetype'), url('/petcircle-assets/stylesheets/fonts/petcircleico.woff?w1oum6') format('woff'), url('/petcircle-assets/stylesheets/fonts/petcircleico.svg?w1oum6#petcircleico') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+} */
 
 i {
     /* use !important to prevent issues with browser extensions that change fonts */
@@ -12417,7 +12417,7 @@ main#main {
 .discover-landing .top-content-slider .slide-wrap #discover-slide .flex-viewport ul.slides li p a:after {
     display: inline-block;
     margin-left: 6px;
-    background: url(/petcircle-assets/images/arrow3.png) left top no-repeat;
+    /* background: url(/petcircle-assets/images/arrow3.png) left top no-repeat; */
     width: 6px;
     height: 9px;
     vertical-align: middle;
@@ -12525,7 +12525,7 @@ main#main {
     width: 20px;
     top: 0px;
     left: 0px;
-    background: url(/petcircle-assets/images/ui-plus-button.png) no-repeat;
+    /* background: url(/petcircle-assets/images/ui-plus-button.png) no-repeat; */
     background-position: left -27px top;
 }
 
@@ -12552,7 +12552,7 @@ main#main {
     width: 20px;
     top: 0px;
     left: 0px;
-    background: url('/petcircle-assets/images/ui-plus-button.png') no-repeat;
+    /* background: url('/petcircle-assets/images/ui-plus-button.png') no-repeat; */
     background-position: left -1px top;
 }
 
