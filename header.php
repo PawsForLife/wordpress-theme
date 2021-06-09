@@ -91,24 +91,28 @@
     <link rel="dns-prefetch" href="//ws.sessioncam.com" />
 
 
-
-    <!-- <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/jquery-3.4.1.min.js" as="script" />
+    <link rel="preload" type="application/javascript" href="./js/mega-nav-min.js" as="script" />
+    <link rel="preload" type="application/javascript" href="./js/shiba-min.js" as="script" />
+ <!-- <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/jquery-3.4.1.min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/js.cookie-2.2.1.min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/vendor/bootstrap.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/sli-rac.stub-min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/sli-rac.config-min.js" as="script" /> -->
-    <link rel="preload" type="application/javascript" href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/mega-nav-min.js" as="script" />
-    <link rel="preload" type="application/javascript" href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/shiba-min.js" as="script" />
-    <!-- <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/pccart-min.js" as="script" />
+
+<!-- <link rel="preload" type="application/javascript" href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/mega-nav-min.js" as="script" /> -->
+<!-- <link rel="preload" type="application/javascript" href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/shiba-min.js" as="script" /> -->
+
+<!-- <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/pccart-min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/pccustomer-min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/ga-min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/shiba-components-min.js" as="script" />
 <link rel="preload" type="application/javascript"  href="https://www.petcircle.com.au/static-assets/520077FA65D15599/javascripts/build/tracking-min.js" as="script" /> -->
 
-    <link rel="preload" type="font/woff2" href="https://www.petcircle.com.au/petcircle-assets/content/fonts/icon-fonts/materialicons-regular.woff2" as="font" crossorigin />
+    <!-- <link rel="preload" type="font/woff2" href="https://www.petcircle.com.au/petcircle-assets/content/fonts/icon-fonts/materialicons-regular.woff2" as="font" crossorigin />
     <link rel="preload" type="font/woff2" href="https://www.petcircle.com.au/petcircle-assets/content/fonts/icon-fonts/materialicons-regular.woff" as="font" crossorigin />
-    <link rel="preload" type="font/woff2" href="https://www.petcircle.com.au/petcircle-assets/content/fonts/icon-fonts/petcircleico.woff" as="font" crossorigin />
+    <link rel="preload" type="font/woff2" href="https://www.petcircle.com.au/petcircle-assets/content/fonts/icon-fonts/petcircleico.woff" as="font" crossorigin /> -->
     <link rel="preload" href="<?php echo get_template_directory_uri() ?>/style.css" as="style" />
+    <link rel="preload" href="<?php echo get_template_directory_uri() ?>/css/ui-main.css" as="style" />
 
 
     <script>
