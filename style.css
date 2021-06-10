@@ -2237,7 +2237,7 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid silver;
-    margin: 0 0 18px;
+    /* margin: 0 0 18px; */
     padding: 0;
     clear: both
 }
@@ -42988,8 +42988,8 @@ span.product-reviews-handler.no-review {
 }
 
 /* Gutenberg CSS */
-
-.wp-block-columns {
+ 
+ .wp-block-columns {
     display: flex;
     width: 100%;
     margin: 30px 0;
@@ -43017,8 +43017,7 @@ span.product-reviews-handler.no-review {
 
 .wp-block-button__link:hover {
     text-decoration: none;
-}
-
+} 
 .has-text-align-center {
     text-align: center;
 }
@@ -43049,5 +43048,3 @@ ol.comment-list li {
     margin: 10px 0;
     border: solid 1px #f1f1f1;
 }
-
-/* ui-main */
