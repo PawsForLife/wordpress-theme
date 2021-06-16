@@ -39,17 +39,17 @@ get_header();
 	<p>For more tips, scroll down to read articles and watch videos by our <a href="https://www.petcircle.com.au/discover/author">Pet Circle veterinarians</a>, product gurus and guest expert contributors.</p>
 	
 				<div class="col-sm-3">
-					<p class="edit-details" style="margin-bottom: 30px"><a target="_blank" href="https://www.petcircle.com.au/discover/vet-pet-plan" id="contact-edit" class="ui-edit" style="text-align:center;display:block;color: rgb(16, 179, 177); text-decoration: none !important;"> Claim Your FREE Vet Pet Plan</a></p>
+					<p class="edit-details" style="margin-bottom: 30px"><a target="_blank" href="https://www.petcircle.com.au/discover/vet-pet-plan" id="contact-edit" class="ui-edit" style="text-align:center;display:block;text-decoration: none !important;"> Claim Your FREE Vet Pet Plan</a></p>
                 </div>
 
                
 
                 <div class="col-sm-3">
-					<p class="edit-details" style="margin-bottom: 30px"><a target="_blank" href="/discover/vet-squad" id="contact-edit" class="ui-edit" style="text-align:center;display:block;color: rgb(16, 179, 177); text-decoration: none !important;"> Meet the Vet Squad</a></p>
+					<p class="edit-details" style="margin-bottom: 30px"><a target="_blank" href="/discover/vet-squad" id="contact-edit" class="ui-edit" style="text-align:center;display:block; text-decoration: none !important;"> Meet the Vet Squad</a></p>
                 		
 				</div>
 				 <div class="col-sm-3">
-                	<p class="edit-details" style="margin-bottom: 30px"><a target="_blank" href="https://direct.lc.chat/8650614/3" id="contact-edit" class="ui-edit" style="text-align:center;display:block;color: rgb(16, 179, 177); text-decoration: none !important;"> Chat With a Vet Online<sup>*</sup></a></p>
+                	<p class="edit-details" style="margin-bottom: 30px"><a target="_blank" href="https://direct.lc.chat/8650614/3" id="contact-edit" class="ui-edit" style="text-align:center;display:block;text-decoration: none !important;"> Chat With a Vet Online<sup>*</sup></a></p>
                 		
                 </div>
 
